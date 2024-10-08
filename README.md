@@ -1,5 +1,5 @@
 # Dashboard
-![Shop Sales Dashboard](https://en.wikipedia.org/wiki/Rasak_Ojo_Bakare#/media/File:Professor_Rasak_Ojo_Bakare.jpg)
+![Shop Sales Dashboard](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Professor_Rasak_Ojo_Bakare.jpg/800px-Professor_Rasak_Ojo_Bakare.jpg)
 
 <hr />
 <br />
