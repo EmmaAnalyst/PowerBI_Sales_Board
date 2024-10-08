@@ -1,6 +1,5 @@
 # Dashboard
-<!-- ![Screenshot 2023-07-28 152259] (https://github.com/EmmaAnalyst/PowerBI_Sales_Board/blob/main/image/sales_dashboard.png) -->
-[Shop Sales Dashboard](https://github.com/yashdoshi12/Sales_report_using_PowerBi/assets/39629707/23e117f3-fd1d-4c0b-a0a7-391795d3ca79)
+![Screenshot 2023-07-28 152259](https://github.com/yashdoshi12/Sales_report_using_PowerBi/assets/39629707/23e117f3-fd1d-4c0b-a0a7-391795d3ca79)
 
 
 <hr />
