@@ -1,5 +1,5 @@
 # Dashboard
-![Shop Sales Dashboard](https://images.app.goo.gl/sBbzgB7Ff5RkcThd9)
+![Shop Sales Dashboard](https://images.app.goo.gl/ByLeaBeq7Pva2YmE8)
 
 <hr />
 <br />
