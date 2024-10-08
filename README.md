@@ -1,5 +1,5 @@
 # Dashboard
-![Shop Sales Dashboard] (images/sales_dashboard)
+![Shop Sales Dashboard] (image/sales_dashboard.png)
 
 
 <hr />
